@@ -1,0 +1,80 @@
+/*ManagementPage styling*/
+*{
+    padding:0;
+    margin:0;
+}
+
+
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width:100%;
+    height:auto;
+    background-color:lightgray;
+    overflow:hidden;
+   
+}
+
+
+.header{
+    display:flex;
+    background-color:rgb(15, 102, 243);
+    color:white;
+    width:100%;
+    height:50px;
+    position: fixed;
+    
+}
+
+
+.header a{
+    text-decoration:none;
+    color:white;
+    padding-top:15px;
+    padding-left:30px;
+}
+
+
+.left:last-child{
+    margin-left:auto;
+    padding-right:10em;
+    
+}
+
+
+.bodycontent{
+    height:auto;
+    display:grid;
+    grid-template-columns:20% 80%;
+    grid-template-areas:"body1" "body2";
+ 
+}
+
+.body1{
+     background-color:black;
+     height:700px;
+
+}
+
+.body2{
+    background-color:ghostwhite;
+    height:700px;
+    width:100%;
+    padding-top:50px;
+}
+
+.body1 a{
+    display:block;
+    text-decoration:none;
+    margin-bottom:5px;
+    color:darkgrey;
+    padding-bottom:10px;
+    padding-left:10px;
+    padding-top:20px;
+}
+
+.body1 a:hover{
+    background-color:rgb(24, 29, 29);
+    color:white;
+}
+
+

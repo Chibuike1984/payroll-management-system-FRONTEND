@@ -1,0 +1,215 @@
+
+
+.ui-dialog-titlebar{display: none;} 
+.ui-tabs-titlebar{
+    background-color: white;
+}  
+ 
+.PayrollReg{
+    background-color:white;
+    width:500px;
+    height:410px;
+    margin-right:2%;
+    border: 1px gray;
+    box-shadow:0px 0px 2px black;
+    display:none;
+    
+}
+
+
+.pp{
+    padding-top:15px;
+}
+.pp{
+    background-color:whitesmoke;
+    height:50px;
+    width:100%;
+  
+}
+
+.hr11{
+    height:1px;
+    background-color:lightgrey;
+    margin-bottom:20px;
+    width:100%;
+    margin-top:0px;
+}
+
+.hr22{
+    height:1px;
+    background-color:lightgrey;
+    width:100%;
+    margin-bottom:0px;
+}
+
+#Datefrom ,#Dateto{
+    padding:10px 0 10px 10px;
+    height:15px;
+    width:85%;
+    font-family:13px;
+    margin:5px 20px 15px 20px;
+    
+}
+
+.saveDelete{
+    background-color:whitesmoke;
+    width:100%;
+    height:55px;
+}
+
+.Save,.Cancel{
+    background-color:rgb(15, 102, 243);
+    margin:10px 10px 0 10px;
+    width:80px;
+    height:35px;
+    border:none;
+    outline:none;
+    font-size:15px;
+    color:white;
+    border-radius:2px;
+    cursor: pointer;
+    float:right;
+     
+}
+
+.Cancel{
+    background-color:grey;
+    color:white;
+
+}
+
+#Amount{
+    padding:10px 0 10px 10px;
+    height:15px;
+    width:85%;
+    font-family:13px;
+    margin:5px 20px 15px 20px;
+   
+}
+
+
+/*--------------------------*/
+ 
+.PayrollReg{
+    background-color:white;
+    width:600px;
+    height:400px;
+    margin-right:2%;
+    display:none;
+    border: 1px gray;
+    box-shadow:0px 0px 2px black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+ 
+.employ{
+    background-color:white;
+    width:300px;
+    height:80px;
+    border: 1px gray;
+    box-shadow:0px 0px 2px black;
+    margin:2%;
+    
+   
+}
+
+
+ .info p{
+    padding-left:20px;
+    margin-top:10px;
+}
+
+.em{
+    background-color:whitesmoke;
+    height:50px;
+    width:100%;
+}
+
+.em p{
+    padding-left:20px;
+    padding-top:15px;
+}
+
+.ah4{
+    background-color:whitesmoke;
+    height:40px;
+    width:100%;
+    padding-top:1px;  
+}
+
+
+.line1{
+    height:1px;
+    background-color:lightgrey;
+    width:100%;
+    margin-top:0px;
+}
+
+h4{
+    padding-top:5px;
+    padding-left:15px;
+}
+
+.line3{
+    height:1px;
+    background-color:lightgrey;
+    width:95%;
+    margin-top:2%;
+}
+
+.info p{
+    padding-top:4px;
+    
+}
+
+.line2{
+    height:1px;
+    background-color:lightgrey;
+    width:100%;
+    margin-bottom:0px;
+}
+
+.saveDelete{
+    background-color:whitesmoke;
+    width:100%;
+    height:55px;
+}
+
+.Save,.Cancel{
+    background-color:rgb(15, 102, 243);
+    margin:10px 10px 0 10px;
+    width:80px;
+    height:35px;
+    border:none;
+    outline:none;
+    font-size:15px;
+    color:white;
+    border-radius:2px;
+    cursor: pointer;
+    float:right;
+     
+}
+
+.Cancel{
+    background-color:grey;
+    color:white;
+
+}
+
+#plus{
+    background-color:rgb(15, 102, 243);
+    color:white;
+    width:15px;
+    height:15px;
+    border:none;
+    outline:none;
+    font-size:15px;
+    color:white;
+    border-radius:2px;
+    cursor: pointer;
+    text-align:center;
+    padding:5px;
+    float: right;
+    margin-right:10px;
+}
